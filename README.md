@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Choudhary</h1>
 <h3 align="center">A passionate Fullstack and Devops Engineer from India</h3>
 
-- 🔭 I’m currently working on [NIT Srinagar Alumini Portal](https://github.com/rahul24167/plency)
+- 🔭 I’m currently working on [Plency](https://github.com/rahul24167/plency)
 
 - 🌱 I’m currently learning **Kubernetes**
 
